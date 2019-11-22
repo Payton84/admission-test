@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34431" started-at="2019-11-22T03:53:39Z" finished-at="2019-11-22T03:54:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34431" started-at="2019-11-22T03:53:39Z" finished-at="2019-11-22T03:54:13Z">
+      <class name="MainPage.FlujoServicio">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:MainPage.FlujoServicio@1060b431]" name="beforeMethod" is-config="true" duration-ms="7414" started-at="2019-11-22T03:53:39Z" finished-at="2019-11-22T03:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="paginaPrincipalServicio()[pri:0, instance:MainPage.FlujoServicio@1060b431]" name="paginaPrincipalServicio" duration-ms="26394" started-at="2019-11-22T03:53:46Z" finished-at="2019-11-22T03:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paginaPrincipalServicio -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:MainPage.FlujoServicio@1060b431]" name="afterMethod" is-config="true" duration-ms="606" started-at="2019-11-22T03:54:13Z" finished-at="2019-11-22T03:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- MainPage.FlujoServicio -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
